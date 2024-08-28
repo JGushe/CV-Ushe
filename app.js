@@ -1,4 +1,3 @@
-
 function crearBarra(id_barra){
     for(i=0;i<=16;i++){
         let div = document.createElement("div");
